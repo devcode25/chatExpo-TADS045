@@ -67,9 +67,10 @@ Desenvolvedores:
 - [nome](link)
 
 --
-## 4 - Nome do(a) assistente
+## 4 - Flora Maria
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+<img src="https://github.com/camilapessoaos/chatExpo-TADS045/blob/main/FLORA.jpg" alt="Flora Maria" width="200" height="300">
+
 
 **Quem sou eu:**
 
@@ -78,10 +79,10 @@ Desenvolvedores:
 🔗 [Veja o meu processo de criação(apresentação do miro sobre o nosso processo](https://exemplo.com/atividade1)
 
 Desenvolvedores:
-- [Arthur Bem](link)
-- [Camila Pessoa](link)
-- [Gustavo Koichi](link)
-- [Pedro Valença](link)
+- [Arthur Bem](https://github.com/arthurhcbem)
+- [Camila Pessoa](https://github.com/camilapessoaos)
+- [Gustavo Koichi](https://github.com/gustavokoichi)
+- [Pedro Valença](https://github.com/pedrohmvalenca)
 
 --
 ## 5 - Nome do(a) assistente
