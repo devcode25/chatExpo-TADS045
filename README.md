@@ -10,23 +10,20 @@ Cada equipe desenvolveu um bot com personalidade única, um fluxo inteligente de
 
 ---
 
-## 1 - Nome do(a) assistente
+## 1 - Gorette
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+![Algoritmos](img/computer-virtual-assistant-african-woman-600nw-2518831461.jpg)
 
-**Quem sou eu:**
+**Gorette é uma uma mulher incrível. Talentosa na tecnologia, sabe instruir bem as pessoas com muita calma e paciência. Se você está desanimado para entrar nessa área ela animará você e no fim da consulta você terá esperança nessa jornada.**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1dk_7p5YBABaxAaSBqLEoztISUZxj5RXe?usp=sharing)
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação](https://www.figma.com/board/3iFMfU7tmQCf3Gso822LLx/CHATBOT-TEREZA?node-id=0-1&t=aK0FFtTObYhqRQgX-1)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Priscila](https://github.com/Priscila319)
+- [Caio](https://github.com/Caio-Paschoal97/Caio-Paschoal97)
+- [Arice](https://github.com/ARICE-GOMES/ARICE-GOMES)
 
 --
 ## 2 - Francisco Franceschini
