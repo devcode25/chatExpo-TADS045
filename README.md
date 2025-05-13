@@ -124,23 +124,25 @@ Desenvolvedores:
 - [nome](link)
 
 --
-## 9 - Nome do(a) assistente
+## 9 - Tadeu - Conselheiro do Bairro
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+![image](https://github.com/user-attachments/assets/4c340d0b-f181-4ac8-985f-a51be32ddbbc)
+
+
+![Algoritmos](https://colab.research.google.com/drive/1Rq8yRaxzV76G0HbB09dQkQtpSBfQEIl_?usp=sharing)
 
 **Quem sou eu:**
 
 🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação](https://www.canva.com/design/DAGmBXAO3CY/fucDeDjvzVIb1aGpr5StZg/edit?utm_content=DAGmBXAO3CY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Lucas](https://www.linkedin.com/in/lucas-ramos-3774961b8/)
+- [Lohan](https://www.linkedin.com/in/lohanozorio/)
+- [Vitor](https://www.linkedin.com/in/vitorsantosll/)
+- [Tiago](https://www.linkedin.com/in/teeago/)
+
 
 --
 ## 10 -Malokinho
