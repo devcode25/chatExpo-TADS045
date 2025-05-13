@@ -73,17 +73,15 @@ Desenvolvedores:
 
 **Quem sou eu:**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1hxiFvwnvAQ5EVIH9P8xsx7PEXvMw002d?usp=sharing)
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação(apresentação do miro sobre o nosso processo](https://exemplo.com/atividade1)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Arthur Bem](link)
+- [Camila Pessoa](link)
+- [Gustavo Koichi](link)
+- [Pedro Valença](link)
 
 --
 ## 5 - Nome do(a) assistente
