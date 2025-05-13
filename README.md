@@ -10,7 +10,140 @@ Cada equipe desenvolveu um bot com personalidade única, um fluxo inteligente de
 
 ---
 
-## 🔹 Nome do(a) assistente
+## 1 - Nome do(a) assistente
+
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+
+**Quem sou eu:**
+
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+
+Desenvolvedores:
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+
+--
+## 2 - Nome do(a) assistente
+
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+
+**Quem sou eu:**
+
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+
+Desenvolvedores:
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+
+--
+## 3 - Nome do(a) assistente
+
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+
+**Quem sou eu:**
+
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+
+Desenvolvedores:
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+
+--
+## 4 - Nome do(a) assistente
+
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+
+**Quem sou eu:**
+
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+
+Desenvolvedores:
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+
+--
+## 5 - Nome do(a) assistente
+
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+
+**Quem sou eu:**
+
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+
+Desenvolvedores:
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+
+--
+## 6 - Nome do(a) assistente
+
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+
+**Quem sou eu:**
+
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+
+Desenvolvedores:
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+
+--
+## 9 - Nome do(a) assistente
+
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+
+**Quem sou eu:**
+
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+
+Desenvolvedores:
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+
+--
+## 10 - Nome do(a) assistente
 
 ![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
 
