@@ -143,22 +143,22 @@ Desenvolvedores:
 - [nome](link)
 
 --
-## 10 - Nome do(a) assistente
+## 10 -Malokinho
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+![image](https://github.com/user-attachments/assets/38818917-1c73-4062-8b7d-964ebc0a7382)
+
+
 
 **Quem sou eu:**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1OBKUjQsLleD_1ew9FxHcQuYDtyCHz1Bo?usp=sharing)
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação](https://www.figma.com/board/HF78AFosi2CR0XKsK823cl/CHAT-DA-QUEBRADA--MALOKINHOS?node-id=0-1&t=a2bRHJYbt0dXxL3N-1)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Renan Souza](https://www.linkedin.com/in/renanlsouza/)
+- [Leticia Gabrielle](https://www.linkedin.com/in/leticia-gabrielle-034b80327/)
+- [Vitória Barboza](https://www.linkedin.com/in/vit%C3%B3ria-barboza-042852350/)
+- [Victor Pereira](https://www.linkedin.com/in/victor-pereira-b86aa8256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 --
