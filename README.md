@@ -33,7 +33,7 @@ Desenvolvedores:
 
 ![Algoritmos](https://github.com/Clara-sousa05/chatExpo-TADS045/blob/main/img/francisco.jpeg)
 
-**Quem sou eu: Sou um bot que irá te ajudar a decidir o que fazer no fim de semana. Francisco Franceschini nunca falha!**
+**Sou um bot que irá te ajudar a decidir o que fazer no fim de semana. Francisco Franceschini nunca falha!**
 
 🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1rcEJ9FiUNre59QK8BFdxrHoyJE3uIxO8?usp=sharing)
 
