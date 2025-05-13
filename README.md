@@ -10,11 +10,11 @@ Cada equipe desenvolveu um bot com personalidade única, um fluxo inteligente de
 
 ---
 
-## 1 - Nome do assistente Gorette
+## 1 - Gorette
 
 ![Algoritmos](img/computer-virtual-assistant-african-woman-600nw-2518831461.jpg)
 
-**Gorette**
+**Gorette é uma uma mulher incrível. Talentosa na tecnologia, sabe instruir bem as pessoas com muita calma e paciência. Se você está desanimado para entrar nessa área ela animará você e no fim da consulta você terá esperança nessa jornada.**
 
 🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1dk_7p5YBABaxAaSBqLEoztISUZxj5RXe?usp=sharing)
 
