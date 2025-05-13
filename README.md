@@ -149,7 +149,7 @@ Desenvolvedores:
 
 
 
-**Quem sou eu:**
+**Eu, o Malokinho, decidi trabalhar em um chatbot da quebrada! A ideia é conseguir aproximar os jovens de comunidades locais na construção de curriculos, acesso a bolsa de estudos e entrada em programas de tecnologias utilizando um chatbot interativo com linguagem regional mais jovial.**
 
 🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1OBKUjQsLleD_1ew9FxHcQuYDtyCHz1Bo?usp=sharing)
 
