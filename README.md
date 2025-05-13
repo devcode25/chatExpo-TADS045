@@ -14,7 +14,7 @@ Cada equipe desenvolveu um bot com personalidade única, um fluxo inteligente de
 
 ![Algoritmos](img/computer-virtual-assistant-african-woman-600nw-2518831461.jpg)
 
-**Quem sou eu:**
+**Gorette**
 
 🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1dk_7p5YBABaxAaSBqLEoztISUZxj5RXe?usp=sharing)
 
