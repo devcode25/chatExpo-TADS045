@@ -88,7 +88,7 @@ Desenvolvedores:
 --
 ## 5 - MoodBot
 
-![Algoritmos](https://github.com/Gustavo-mouraDev/chatExpo-TADS045/blob/main/img/MoodBot.png)
+![MoodBot](https://raw.githubusercontent.com/Gustavo-mouraDev/chatExpo-TADS045/main/img/MoodBot.png)
 
 **MoodBot é um assistente virtual inteligente e divertido que te ajuda a planejar o fim de semana ideal com base no seu humor, tempo disponível, interesses culturais e orçamento, oferecendo sugestões personalizadas**
 
@@ -97,12 +97,10 @@ Desenvolvedores:
 🔗 [Veja o meu processo de criação](https://miro.com/app/board/uXjVI2Y3BOM=/?share_link_id=836623756375)
 
 Desenvolvedores:
-- [Gustavo](www.linkedin.com/in/gustavo-mouradev)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Gustavo](https://www.linkedin.com/in/gustavo-mouradev/)
+- [Bernardo](link)
+- [Mateus](link)
+- [Kauã](link)
 
 --
 ## 6 - Nome do(a) assistente
