@@ -98,9 +98,9 @@ Desenvolvedores:
 
 Desenvolvedores:
 - [Gustavo](https://www.linkedin.com/in/gustavo-mouradev/)
-- [Bernardo](link)
-- [Mateus](link)
-- [Kauã](link)
+- [Bernardo](https://github.com/7BZN)
+- [Mateus](https://github.com/Mateus88B)
+- [Kauã](https://github.com/K-source-source)
 
 --
 ## 6 - Nome do(a) assistente
