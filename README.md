@@ -76,7 +76,7 @@ Desenvolvedores:
 
 🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1hxiFvwnvAQ5EVIH9P8xsx7PEXvMw002d?usp=sharing)
 
-🔗 [Veja o meu processo de criação(apresentação do miro sobre o nosso processo](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação](https://miro.com/app/board/uXjVI2Ln4bQ=/?share_link_id=228021639853)
 
 Desenvolvedores:
 - [Arthur Bem](https://github.com/arthurhcbem)
