@@ -14,7 +14,7 @@ Cada equipe desenvolveu um bot com personalidade única, um fluxo inteligente de
 
 ![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
 
-**Quem sou eu:**
+
 
 🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
 
@@ -128,7 +128,7 @@ Desenvolvedores:
 
 <img src="https://github.com/user-attachments/assets/4c340d0b-f181-4ac8-985f-a51be32ddbbc" width = 300px height=400px>
 
-**Quem sou eu:**
+**Tadeu é alguém esforçado, com paixão em ajudar! Não atoa, ele oferece suporte para sua comunidade com informações de serviços**
 
 🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1Rq8yRaxzV76G0HbB09dQkQtpSBfQEIl_?usp=sharing)
 
