@@ -119,9 +119,6 @@ Desenvolvedores:
 
 <image src = "https://github.com/user-attachments/assets/4c340d0b-f181-4ac8-985f-a51be32ddbbc" width = "300px" height = "400px">
 
-
-[Algoritmos](https://colab.research.google.com/drive/1Rq8yRaxzV76G0HbB09dQkQtpSBfQEIl_?usp=sharing)
-
 **Tadeu é um assistente virtual inteligente, sempre pronto para ajudar com eficiência e simpatia. Ele responde dúvidas, organiza tarefas, oferece sugestões úteis e facilita o dia a dia com agilidade e precisão. Seja para trabalho, estudo ou lazer, Tadeu está ao seu lado para tornar tudo mais simples.**
 
 🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1Rq8yRaxzV76G0HbB09dQkQtpSBfQEIl_?usp=sharing)
