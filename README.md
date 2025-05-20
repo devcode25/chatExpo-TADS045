@@ -42,23 +42,21 @@ Desenvolvedores:
 - [Clara Sousa](https://github.com/Clara-sousa05)
 
 --
-## 3 - Nome do(a) assistente
+## 3 - Logika
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+![Algoritmos](https://github.com/Ona-i/chatExpo-TADS045/blob/main/img/logika.jpg)
 
-**Quem sou eu:**
+**Olá! Eu sou o KJOL, seu assistente virtual. Estou aqui para te ajudar a entender e explorar diversas linguagens de programação de forma simples e prática. Vamos começar?**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1dT7o-9sN9OlGUXkz_DVYNUyVCp8YyppC?usp=sharing)
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação](https://www.figma.com/board/cezVWzrB5GJHvrDVy7lEpQ/Sem-t%C3%ADtulo?node-id=0-1&t=hG0QaxDetYBnIkXk-1)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Jorge Figueredo](https://github.com/Jorgefigueredoo)
+- [Kauan Nicolas](GitHub.com/kauannic)
+- [Luiz Eduardo](https://github.com/Luiz44141)
+- [Luiz Martiniano](https://github.com/Ona-i)
 
 --
 ## 4 - Flora Maria
