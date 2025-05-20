@@ -119,6 +119,7 @@ Desenvolvedores:
 
 ![Algoritmos](https://github.com/RafaelHK43/chatExpo-TADS045/blob/main/img/imagem%20do%20chat-bot.png?raw=true)
 
+
 Quem sou eu:
 Olá! Eu sou o FindiBot, seu Treinador de Fim de Semana! Vamos planejar algo divertido?
 
