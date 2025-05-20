@@ -46,7 +46,7 @@ Desenvolvedores:
 
 ![Algoritmos](https://github.com/Ona-i/chatExpo-TADS045/blob/main/img/logika.jpg)
 
-**Olá! Eu sou o KJOL, seu assistente virtual. Estou aqui para te ajudar a entender e explorar diversas linguagens de programação de forma simples e prática. Vamos começar?**
+**Olá! Eu sou o Logika, seu assistente virtual. Estou aqui para te ajudar a entender e explorar diversas linguagens de programação de forma simples e prática. Vamos começar?**
 
 🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1dT7o-9sN9OlGUXkz_DVYNUyVCp8YyppC?usp=sharing)
 
