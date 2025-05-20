@@ -105,10 +105,10 @@ Desenvolvedores:
 🔗 [Veja o meu processo de criação](https://www.figma.com/board/uo0rgxdvoflaRUcVHO7sx8/Fluxograma-Chatbot-da-quebrada?node-id=0-1&t=44kpKrG3DpGajxBt-1)
 
 Desenvolvedores:
-- [André Luís]
-- [Lucas Souza]
-- [Adriano Cirimele]
-- [Matheus Paulo]
+- [André Luís](https://github.com/Andif-1)
+- [Lucas Souza](https://github.com/lucasSouza081)
+- [Adriano Cirimele](https://github.com/AdrianCirimele)
+- [Matheus Paulo](https://github.com/Paulo05y)
 
 --
 ## 7 - Finn 
