@@ -115,6 +115,26 @@ Desenvolvedores:
 - [nome](link)
 
 --
+## 7 - Finn 
+
+![Algoritmos](https://github.com/RafaelHK43/chatExpo-TADS045/blob/main/img/imagem%20do%20chat-bot.png?raw=true)
+
+Quem sou eu:
+Olá! Eu sou o FindiBot, seu Treinador de Fim de Semana! Vamos planejar algo divertido?
+
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1QnzmPrvS1RLFMJfpVoTTG7oPnZn01VkQ?usp=sharing)
+
+🔗 [Veja o meu processo de criação](https://miro.com/app/board/uXjVI2KSUIc=/?share_link_id=419982488060)
+
+Desenvolvedores:
+- [Antonio Vinicios](https://github.com/Antonio-avsp)
+- [Arthur Ângelo](https://www.linkedin.com/in/arthur-%C3%A3ngelo-236a21350/)
+- [Bruno Augusto](https://www.linkedin.com/in/bruno-augusto-gusm%C3%A3o-dias-93676b366/)
+- [Rafael Henrique](https://www.linkedin.com/in/rafael-henrique-43518a351/)
+- [Vinicios Trezena](https://github.com/trezena300/trezena300)
+
+
+--
 ## 9 - Tadeu - Conselheiro do Bairro
 
 <image src = "https://github.com/user-attachments/assets/4c340d0b-f181-4ac8-985f-a51be32ddbbc" width = "300px" height = "400px">
