@@ -94,23 +94,21 @@ Desenvolvedores:
 - [Kauã](https://github.com/K-source-source)
 
 --
-## 6 - Nome do(a) assistente
+## 6 - Bot da Quebrada
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+![Algoritmos](https://github.com/Andif-1/chatExpo-TADS045/blob/main/img/TADS045%20SQUAD%206.png?raw=true)
 
 **Quem sou eu:**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1yxzbAqk3leHZFJtdg0mzAeO1nGwDEHoD?usp=sharing)
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação](https://www.figma.com/board/uo0rgxdvoflaRUcVHO7sx8/Fluxograma-Chatbot-da-quebrada?node-id=0-1&t=44kpKrG3DpGajxBt-1)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [André Luís]
+- [Lucas Souza]
+- [Adriano Cirimele]
+- [Matheus Paulo]
 
 --
 ## 7 - Finn 
